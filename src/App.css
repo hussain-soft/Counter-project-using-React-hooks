@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.abc {
+  text-align: center;
+  margin: 15rem 0;
+}
+.abc h1 {
+  font-size: 5rem;
+}
+.abc button {
+  font-size: 1.5rem;
+  padding: 1rem;
+}
